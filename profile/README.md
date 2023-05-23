@@ -1,6 +1,5 @@
 # Mwomullae <br>
----
-* Topic : 
+--- 
 * Team member : 김기흥 | 하은지
 ---
 ### [ Project Goals ]
