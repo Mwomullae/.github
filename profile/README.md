@@ -13,7 +13,7 @@
 ---
 &nbsp; : 저장소는 총 3개로 아래와 같습니다.<br>
 &nbsp; [※ 코드 정보는 해당 저장소에서 확인하길 바람]  <br>
-* Mwomullae_ML: 추천 서비스를 개발한 코드가 저장된 저장소입니다.
+* Mwomullae_ML: 추천 서비스를 개발한 코드가 저장된 저장소입니다.  
   [링크] https://github.com/Mwomullae/Mwomullae_ML.git
 * Mwomullae_App: 추천 서비스 코드를 실행한 결과, 추천/출력되는 음식점에 대해 렌더링 하기 위해 작성된 앱 코드가 저장된 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;저장소입니다.  
